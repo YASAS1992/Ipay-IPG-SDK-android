@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ipay-IPG-SDK-android.iml" filepath="$PROJECT_DIR$/.idea/modules/Ipay-IPG-SDK-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ipay_ipg_android_sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/ipay_ipg_android_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ipay_IPG_SDK_android/ipay_ipg_android_sdk.Ipay_IPG_SDK_android.iml" filepath="$PROJECT_DIR$/.idea/modules/Ipay_IPG_SDK_android/ipay_ipg_android_sdk.Ipay_IPG_SDK_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ipay_ipg_android_sdk.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ipay_ipg_android_sdk.app.iml" />
     </modules>
   </component>
 </project>
