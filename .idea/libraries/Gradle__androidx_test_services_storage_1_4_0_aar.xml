@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test.services:storage:1.4.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/a94ae595b8955968644b4ef71fd5751b/transformed/jetified-storage-1.4.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/a94ae595b8955968644b4ef71fd5751b/transformed/jetified-storage-1.4.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/a94ae595b8955968644b4ef71fd5751b/transformed/jetified-storage-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/2bb942ea376f419a247cf89149e810ab/transformed/jetified-storage-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/2bb942ea376f419a247cf89149e810ab/transformed/jetified-storage-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/2bb942ea376f419a247cf89149e810ab/transformed/jetified-storage-1.4.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
